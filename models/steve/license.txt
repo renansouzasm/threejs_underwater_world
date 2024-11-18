@@ -1,0 +1,11 @@
+Model Information:
+* title:	#23 ocean
+* source:	https://sketchfab.com/3d-models/23-ocean-0958a045aac74cc08547dd9d96d1be09
+* author:	LepikGem (https://sketchfab.com/LepikGem)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "#23 ocean" (https://sketchfab.com/3d-models/23-ocean-0958a045aac74cc08547dd9d96d1be09) by LepikGem (https://sketchfab.com/LepikGem) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

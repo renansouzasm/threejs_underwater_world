@@ -1,0 +1,11 @@
+Model Information:
+* title:	Restored Minecraft Shipwreck
+* source:	https://sketchfab.com/3d-models/restored-minecraft-shipwreck-3cfe056f881f463c95937b8a98bbd8e2
+* author:	Xenoreptire (https://sketchfab.com/xenoreptire__)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Restored Minecraft Shipwreck" (https://sketchfab.com/3d-models/restored-minecraft-shipwreck-3cfe056f881f463c95937b8a98bbd8e2) by Xenoreptire (https://sketchfab.com/xenoreptire__) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
